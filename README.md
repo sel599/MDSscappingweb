@@ -119,7 +119,7 @@ Tools yang digunakan pada project ini antara lain Phyton, RStudio, MongoDB dan G
     [{"$group": {"_id": "$Corporate Secretary","jumlah_emiten": { "$sum": 1 }}},{"$sort": { "jumlah_emiten": -1 }}]
 
 # Data Scraping Analysis (Rstudio)
- Berikut merupakan link RPubs data scraping analysis : file:///C:/Users/sely.wakhidah/Downloads/MDS-UAS%20(1).html
+ Berikut merupakan link RPubs data scraping analysis : 
  
 # PPT :
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :

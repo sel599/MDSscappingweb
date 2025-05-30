@@ -125,6 +125,7 @@ Tools yang digunakan pada project ini antara lain Phyton, RStudio, MongoDB dan G
  
 # PPT :
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+(https://www.canva.com/design/DAGo5dKJYeo/0pj9_cryemOhCLp6YJLXuA/edit?utm_content=DAGo5dKJYeo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Anggota :
   Project UAS MDS Kelompok 6

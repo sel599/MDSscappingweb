@@ -124,6 +124,7 @@ Tools yang digunakan pada project ini antara lain Phyton, RStudio, MongoDB dan G
  
 # PPT :
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+
 (https://www.canva.com/design/DAGpKfSc5Iw/vh3koIHuI8ztIT-gArfk_A/edit?utm_content=DAGpKfSc5Iw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Anggota :

@@ -46,31 +46,7 @@ Tugas ini melakukan scraping data pada website : https://idx.co.id, dengan dua t
  
    Hasil Scarping pertama :
 
-   <img width="317" alt="image" src="https://github.com/user-attachments/assets/79b0846e-0c70-437d-8040-0819d9a1ad84" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   <img width="317" alt="image" src="https://github.com/user-attachments/assets/79b0846e-0c70-437d-8040-0819d9a1ad84" />          
 
 
    Data :

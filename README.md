@@ -108,7 +108,30 @@ Tugas ini melakukan scraping data pada website : https://idx.co.id, dengan dua t
 
 # Data Final ( Phyton)
     
-   <img width="426" alt="image" src="https://github.com/user-attachments/assets/0b3ff0ce-eef6-4935-a4de-e34148eae4b2" />
+| Kolom                  | Type                   | Description                     		         |
+|:---------------------------|:-----------------------|:-------------------------------------------------|
+| Nama                   | TEXT			| Nama lengkap perusahaan (biasanya sesuai Akta Pendirian atau yang tercatat di IDX) |                      		             
+| NPWP                 | INTEGER			  | Nomor Pokok Wajib Pajak perusahaan                   		             |
+| Komite Audit Ketua                | TEXT		  | Nama ketua komite audit perusahaan                     	             |	
+| Komite Audit Anggota 2-5                       | TEXT | Nama anggota komite audit lainnya, jika ada lebih dari satu anggota |                		                
+| Direktur Utama                       | TEXT | Nama direktur utama/pimpinan tertinggi dalam struktur direksi |                                    
+| Direktur 1,2,..dst	    	         | TEXT  | Nama direktur lain di jajaran direksi, bisa sampai Direktur n                |
+| Komisaris	    	     | TEXT                | Tahun terbit novel                               |
+| Corporate Secretary	    	             | TEXT| Nama pejabat yang bertanggung jawab atas keterbukaan informasi perusahaan |
+| Established Date	    	 | DATE                | Tanggal resmi pendirian perusahaan sesuai Akta                            |
+| Listing Date    	             | DATE                   | Tanggal pencatatan saham pertama kali di Bursa Efek Indonesia                        |
+| Alamat	    	     | TEXT                  | Alamat lengkap kantor pusat perusahaan                                     |
+| Phone		     | INTEGER			| Nomor telepon kantor perusahaan |
+| Fax			     | INTEGER			| Nomor faksimile kantor (jika masih digunakan) |
+| Homepage			     | TEXT			| URL situs web resmi perusahaan |
+| Email			     | TEXT			 | Alamat email resmi perusahaan untuk korespondensi|
+| Pemilik Saham 1			     | TEXT			 | Nama pemegang saham utama (umumnya pemegang saham pengendali atau pemilik mayoritas) |
+
+
+
+
+
+
 
 
 Tools yang digunakan pada project ini antara lain Phyton, RStudio, MongoDB dan Github.

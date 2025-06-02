@@ -130,7 +130,12 @@ Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 # Anggota :
   Project UAS MDS Kelompok 6
   
-  <img width="341" alt="image" src="https://github.com/user-attachments/assets/eac2890a-b281-4816-ab67-e6c05ebd90af" />
+  | No | Nama                                    | NIM          |
+|----|-----------------------------------------|--------------|
+| 1  | Jefita Resti Sari                       | M0501241031  |
+| 2  | Sely Fitriatun W                        | M0501241038  |
+| 3  | Claudian Tikulimbong Tangdilomban       | M0501241048  |
+| 4  | Baiq Nina Febriati                      | M0501241063  |
 
 
  
